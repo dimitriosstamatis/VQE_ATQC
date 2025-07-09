@@ -1,5 +1,5 @@
 from setup import *
-from ansätze import *
+from ansaetze import *
 from vqe_loop import run_vqe
 import matplotlib.pyplot as plt
 
