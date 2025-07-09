@@ -17,7 +17,7 @@ The prototype calculates the ground state energy of the HeH⁺ molecule.
 
 To run the code, the following Python libraries are required:
 
-* `qiskit`
+* `qiskit 1.4.0`
 * `qiskit-nature`
 * `qiskit-aer`
 * `pyscf`
@@ -25,4 +25,4 @@ To run the code, the following Python libraries are required:
 * `matplotlib`
 
 Setup:
-`pip install qiskit qiskit-nature qiskit-aer pyscf numpy matplotlib`
+`pip install 'qiskit==1.4.0' qiskit-nature qiskit-aer pyscf numpy matplotlib`
